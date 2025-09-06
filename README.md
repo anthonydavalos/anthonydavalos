@@ -68,6 +68,12 @@ Passionate about **technology**, **finance**, and **marketing automation**, alwa
 &emsp;![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anthonydavalos/anthonydavalos/output/github-contribution-grid-snake.svg" alt="snake animation light"/>
+</p>
+
 ---
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
