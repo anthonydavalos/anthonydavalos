@@ -1,16 +1,78 @@
-## Hi there 👋
+## Hi 👋 I'm [Anthony Davalos](https://anthonydavalos.github.io/)
 
-<!--
-**anthonydavalos/anthonydavalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCbGwEUjdhRG7aHbsh1uEOqA)](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://anthonydavalos.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Softhony)](https://x.com/Softhony)
 
-Here are some ideas to get you started:
+&emsp;I’m a **Software Developer** and **Financial Markets Trader** based in Lima, 🇵🇪.
+Passionate about **technology**, **finance**, and **marketing automation**, always learning and building solutions that create real impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently working on** digital platforms at Mcofit + custom CRMs for marketing teams (with KPI dashboards for Google Ads & Facebook Ads).
+- 🌱 **Learning** advanced applications of **Machine Learning in fintech & marketing analytics**.
+- 👯 **Looking to collaborate on** fintech, CRM development, data-driven marketing, and AI automation.
+- 🤔 **Looking for help with** scalable trading algorithms & marketing analytics tools.
+- 💬 **Ask me about** full-stack development, CRM design, data analysis, algorithmic trading, or marketing KPIs.
+- ⚡ **Achievements:** 1st place 🏆 in multiple **international trading contests**: AvaTrade (2017), FxStreet (2019), Equiti (2020).
+
+## <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="28"/> Latest from my channel [@Softhony](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
+
+<div align="center">
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=6k27RMwycIc" target="_blank"><img src="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&background_color=000000&title_color=ffffff&stats_color=ffffff&max_title_lines=3&width=260&border_radius=8" alt="HOW TO SET UP A SERVER ON GCP WITH VIRTUALMIN AND NGINX PAGESPEED"/></a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=Tj61S_H3y4E" target="_blank"><img src="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=0&background_color=000000&title_color=ffffff&stats_color=ffffff&max_title_lines=3&width=260&border_radius=8" alt="HOW TO COMPILE THE PAGESPEED MODULE ON UBUNTU 18.04 LTS WITH NGINX"/></a>
+</div>
+
+---
+### 📈 Most Used Languages
+<div align="center">
+
+  ![Anthony's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anthonydavalos&show_icons=true&layout=compact)
+
+</div>
+
+### 📊 GitHub Stats
+<div align="center">
+
+  ![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonydavalos&show_icons=true)
+
+</div>
+
+---
+## 🛠️ My Skills
+
+### ☁️ Cloud Platforms
+&emsp;![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### 🖥️ Programming Languages
+&emsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🌐 Web Languages
+&emsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Databases
+&emsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+### 🎨 Frontend Frameworks
+&emsp;![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+### 🛠️ Tools & Automation
+&emsp;![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+
+---
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCbGwEUjdhRG7aHbsh1uEOqA)](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://anthonydavalos.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Softhony)](https://x.com/Softhony)
+
+```✨ Always open to collaborating on impactful projects worldwide. Let’s connect!```
