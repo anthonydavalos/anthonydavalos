@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://anthonydavalos.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Softhony)](https://x.com/Softhony)
 
-&emsp;I’m a **Software Developer** and **Financial Markets Trader** based in Lima, 🇵🇪.
+&emsp;I’m a **Software Developer** and **Financial Markets Trader** based in Lima 🇵🇪.
 Passionate about **technology**, **finance**, and **marketing automation**, always learning and building solutions that create real impact.
 
 - 🔭 **Currently working on** digital platforms at Mcofit + custom CRMs for marketing teams (with KPI dashboards for Google Ads & Facebook Ads).
