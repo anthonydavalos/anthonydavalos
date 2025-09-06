@@ -21,15 +21,15 @@ Passionate about **technology**, **finance**, and **marketing automation**, alwa
 <div align="center">
   <a href="https://www.youtube.com/watch?v=6k27RMwycIc"><picture>
   <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1514764800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=4676">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1526615640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=4676">
   <!-- Light mode -->
-  <img src="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1514764800&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=4676" alt="HOW TO SETUP A SERVER ON GCP WITH VIRTUALMIN AND NGINX PAGESPEED" title="HOW TO SETUP A SERVER ON GCP WITH VIRTUALMIN AND NGINX PAGESPEED"></picture></a>
+  <img src="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1526615640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=4676" alt="HOW TO SETUP A SERVER ON GCP WITH VIRTUALMIN AND NGINX PAGESPEED" title="HOW TO SETUP A SERVER ON GCP WITH VIRTUALMIN AND NGINX PAGESPEED"></picture></a>
   &nbsp;
   <a href="https://www.youtube.com/watch?v=Tj61S_H3y4E"><picture>
   <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1546300800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5778">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5778">
   <!-- Light mode -->
-  <img src="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1546300800&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=5778" alt="HOW TO COMPILE THE PAGESPEED MODULE ON UBUNTU 18.04 LTS WITH NGINX" title="HOW TO COMPILE THE PAGESPEED MODULE ON UBUNTU 18.04 LTS WITH NGINX"></picture></a>
+  <img src="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=5778" alt="HOW TO COMPILE THE PAGESPEED MODULE ON UBUNTU 18.04 LTS WITH NGINX" title="HOW TO COMPILE THE PAGESPEED MODULE ON UBUNTU 18.04 LTS WITH NGINX"></picture></a>
 </div>
 <!-- END YOUTUBE-CARDS -->
 
