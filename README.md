@@ -1,16 +1,14 @@
-<h1>Hi 👋, I'm <a href="https://anthonydavalos.github.io/" target="_blank">Anthony Davalos</a></h1>
+# Hi 👋, I'm [Anthony Davalos](https://anthonydavalos.github.io/)
 
-<p align="left">
-  <a href="https://anthonydavalos.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat&logo=briefcase&logoColor=white" alt="Portfolio Website"></a>
-  <a href="https://github.com/anthonydavalos?tab=repositories&sort=stargazers" target="_blank"><img src="https://img.shields.io/github/followers/anthonydavalos" alt="GitHub followers"></a>
-  <a href="https://www.linkedin.com/in/anthonydavalos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/Softhony" target="_blank"><img src="https://img.shields.io/twitter/follow/Softhony" alt="Twitter Follow"></a>
-  <a href="https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCbGwEUjdhRG7aHbsh1uEOqA" alt="YouTube Channel"></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=briefcase&logoColor=white)](https://anthonydavalos.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://github.com/anthonydavalos?tab=repositories&sort=stargazers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Softhony)](https://x.com/Softhony)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCbGwEUjdhRG7aHbsh1uEOqA)](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
 
 ## Software Developer & Financial Markets Trader 🇵🇪
 
-&nbsp;I'm a Lima-based Software Developer and Financial Markets Trader. I'm passionate about the intersection of **technology 🤖**, **finance 📈**, and **marketing automation 🎯**. My goal is to build solutions that create real impact, constantly learning and improving along the way.
+I'm a Lima-based Software Developer and Financial Markets Trader. I'm passionate about the intersection of **technology 🤖**, **finance 📈**, and **marketing automation 🎯**. My goal is to build solutions that create real impact, constantly learning and improving along the way.
 
 - 🔭 **Currently working on:** Digital platforms at Mcofit and building custom CRMs for marketing teams (complete with KPI dashboards for Google Ads & Facebook Ads).
 - 🌱 **Learning:** Advanced applications of **Machine Learning in fintech & marketing analytics**.
@@ -72,39 +70,29 @@
   <img src="https://streak-stats.demolab.com/?user=anthonydavalos&theme=github-light" alt="GitHub Streak" />
 </div>
 
-<h2><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="32" style="vertical-align: middle;" /> Latest From My Channel <a href="https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1" target="_blank">@Softhony</a></h2>
+## <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="32"/> Latest From My Channel [@Softhony](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
 
-<!-- BEGIN YOUTUBE-CARDS -->
 <div align="center">
   <a href="https://www.youtube.com/watch?v=6k27RMwycIc"><picture>
-  <!-- Dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1526615640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=4676">
-  <!-- Light mode -->
-  <img src="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1526615640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=4676" alt="HOW TO SETUP A SERVER ON GCP WITH VIRTUALMIN AND NGINX PAGESPEED" title="HOW TO SETUP A SERVER ON GCP WITH VIRTUALMIN AND NGINX PAGESPEED"></picture></a>
+  <img src="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1526615640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=4676" alt="HOW TO SETUP A SERVER ON GCP WITH VIRTUALMIN AND NGINX PAGESPEED"></picture></a>
   &nbsp;
   <a href="https://www.youtube.com/watch?v=Tj61S_H3y4E"><picture>
-  <!-- Dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5778">
-  <!-- Light mode -->
-  <img src="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=5778" alt="HOW TO COMPILE THE PAGESPEED MODULE ON UBUNTU 18.04 LTS WITH NGINX" title="HOW TO COMPILE THE PAGESPEED MODULE ON UBUNTU 18.04 LTS WITH NGINX"></picture></a>
+  <img src="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=5778" alt="HOW TO COMPILE THE PAGESPEED MODULE ON UBUNTU 18.04 LTS WITH NGINX"></picture></a>
 </div>
-<!-- END YOUTUBE-CARDS -->
+## 📫 Connect with me
 
-<footer>
-  <h2>📫 Connect with me</h2>
-  <p align="left">
-    <a href="https://anthonydavalos.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat&logo=briefcase&logoColor=white" alt="Portfolio Website"></a>
-    <a href="https://github.com/anthonydavalos?tab=repositories&sort=stargazers" target="_blank"><img src="https://img.shields.io/github/followers/anthonydavalos" alt="GitHub followers"></a>
-    <a href="https://www.linkedin.com/in/anthonydavalos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://x.com/Softhony" target="_blank"><img src="https://img.shields.io/twitter/follow/Softhony" alt="Twitter Follow"></a>
-    <a href="https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCbGwEUjdhRG7aHbsh1uEOqA" alt="YouTube Channel"></a>
-  </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=briefcase&logoColor=white)](https://anthonydavalos.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://github.com/anthonydavalos?tab=repositories&sort=stargazers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Softhony)](https://x.com/Softhony)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCbGwEUjdhRG7aHbsh1uEOqA)](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
 
-  > [!IMPORTANT]
-  > **Let's Build Something Great!**
-  > I'm always open to collaborating on impactful projects worldwide. If you have an interesting idea or challenge, please feel free to reach out.
+> [!IMPORTANT]
+> **Let's Build Something Great!**
+> I'm always open to collaborating on impactful projects worldwide. If you have an interesting idea or challenge, please feel free to reach out.
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/anthonydavalos/anthonydavalos/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-  </p>
-</footer>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anthonydavalos/anthonydavalos/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
