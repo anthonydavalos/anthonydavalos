@@ -81,7 +81,7 @@ I'm a Lima-based Software Developer and Financial Markets Trader. I'm passionate
   </picture>
 </div>
 
-## <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="32"/> Latest From My Channel [@Softhony](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
+## 📺 Latest From My Channel [@Softhony](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1) <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="32"/>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=6k27RMwycIc"><picture>
