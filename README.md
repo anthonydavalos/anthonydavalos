@@ -64,15 +64,10 @@ I'm a Lima-based Software Developer and Financial Markets Trader. I'm passionate
 ## 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonydavalos&show_icons=true&layout=compact&theme=github-light#gh-light-mode-only" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonydavalos&show_icons=true&theme=github-light#gh-light-mode-only" alt="GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonydavalos&theme=github-light#gh-light-mode-only" alt="Activity Graph" />
-  <img src="https://streak-stats.demolab.com/?user=anthonydavalos&theme=github-light#gh-light-mode-only" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonydavalos&show_icons=true&layout=compact&theme=dracula#gh-dark-mode-only" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonydavalos&show_icons=true&theme=dracula#gh-dark-mode-only" alt="GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonydavalos&theme=react-dark#gh-dark-mode-only" alt="Activity Graph" />
-  <img src="https://streak-stats.demolab.com/?user=anthonydavalos&theme=dark#gh-dark-mode-only" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonydavalos&show_icons=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonydavalos&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonydavalos&theme=github-light" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=anthonydavalos&theme=github-light" alt="GitHub Streak" />
 </div>
 
 ## <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="32"/> Latest From My Channel [@Softhony](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
