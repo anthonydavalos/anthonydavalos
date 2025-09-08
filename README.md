@@ -10,7 +10,7 @@
 
 ## Software Developer & Financial Markets Trader 🇵🇪
 
-  I'm a Lima-based Software Developer and Financial Markets Trader. I'm passionate about the intersection of **technology 🤖**, **finance 📈**, and **marketing automation 🎯**. My goal is to build solutions that create real impact, constantly learning and improving along the way.
+&nbsp;I'm a Lima-based Software Developer and Financial Markets Trader. I'm passionate about the intersection of **technology 🤖**, **finance 📈**, and **marketing automation 🎯**. My goal is to build solutions that create real impact, constantly learning and improving along the way.
 
 - 🔭 **Currently working on:** Digital platforms at Mcofit and building custom CRMs for marketing teams (complete with KPI dashboards for Google Ads & Facebook Ads).
 - 🌱 **Learning:** Advanced applications of **Machine Learning in fintech & marketing analytics**.
