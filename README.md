@@ -81,6 +81,7 @@ I'm a Lima-based Software Developer and Financial Markets Trader. I'm passionate
   <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5778">
   <img src="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=5778" alt="HOW TO COMPILE THE PAGESPEED MODULE ON UBUNTU 18.04 LTS WITH NGINX"></picture></a>
 </div>
+
 ## 📫 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=briefcase&logoColor=white)](https://anthonydavalos.github.io/)
