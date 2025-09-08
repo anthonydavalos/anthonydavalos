@@ -77,7 +77,7 @@ I'm a Lima-based Software Developer and Financial Markets Trader. I'm passionate
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonydavalos&theme=github-light" alt="Activity Graph" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anthonydavalos" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anthonydavalos&theme=github-light" />
     <img src="https://streak-stats.demolab.com/?user=anthonydavalos&theme=github-light" alt="GitHub Streak" />
   </picture>
 </div>
