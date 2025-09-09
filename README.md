@@ -1,8 +1,8 @@
 # Hi 👋, I'm [Anthony Davalos](https://anthonydavalos.github.io/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=briefcase&logoColor=white)](https://anthonydavalos.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=githubpages&logoColor=white)](https://anthonydavalos.github.io/)
 [![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://github.com/anthonydavalos?tab=repositories&sort=stargazers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Softhony)](https://x.com/Softhony)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCbGwEUjdhRG7aHbsh1uEOqA)](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
 
@@ -95,9 +95,9 @@ I'm a Lima-based Software Developer and Financial Markets Trader. I'm passionate
 
 ## 📫 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=briefcase&logoColor=white)](https://anthonydavalos.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=githubpages&logoColor=white)](https://anthonydavalos.github.io/)
 [![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://github.com/anthonydavalos?tab=repositories&sort=stargazers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Softhony)](https://x.com/Softhony)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCbGwEUjdhRG7aHbsh1uEOqA)](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
 
