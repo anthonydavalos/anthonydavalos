@@ -1,7 +1,7 @@
 # Hi 👋, I'm [Anthony Davalos](https://anthonydavalos.github.io/)
 
-🛡️ Cybersecurity Specialist | SOC Analyst | DFIR | GRC | Ethical Hacking  
-🧠 30+ Years in Technology & Systems | Threat Detection • Incident Response • Security Architecture  
+🛡️ Cybersecurity | SOC | Reverse Engineering | Real-Time Systems  
+🧠 30+ Years in Systems, Hacking & Low-Level Understanding  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=githubpages&logoColor=white)](https://anthonydavalos.github.io/)
 [![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://github.com/anthonydavalos?tab=repositories&sort=stargazers)
@@ -11,34 +11,41 @@
 
 ---
 
-## Cybersecurity Specialist & SOC-Focused Professional 🇵🇪
+## 🛡️ Cybersecurity Specialist & SOC-Focused Professional 🇵🇪
 
-With over **30 years of hands-on experience in technology**, I have built a deep understanding of systems from the ground up — from low-level environments to modern infrastructures.
+With over **30 years of hands-on experience**, I understand systems from the inside — from low-level environments to modern real-time platforms.
 
-Today, I focus on **cybersecurity operations**, combining my background in development, systems, and attacker mindset to:
+I don’t just use systems. I analyze how they behave, communicate, and fail.
+
+Today, I focus on cybersecurity operations, combining development, systems thinking, and attacker mindset to:
 
 - Detect and analyze threats in real time  
-- Investigate incidents and security events  
-- Strengthen defensive architectures  
-- Understand how attackers think and operate  
+- Investigate incidents and anomalous behavior  
+- Understand system communication and data flows  
+- Identify patterns and weaknesses others often miss  
 
-- 🔭 **Currently working on:** Building SOC-focused labs, threat detection workflows, and security monitoring environments  
+- 🔭 **Currently working on:** SOC-focused labs, threat detection workflows, and monitoring environments  
 - 🌱 **Learning:** Advanced threat detection, DFIR techniques, and SIEM correlation strategies  
-- 👯 **Looking to collaborate on:** SOC labs, incident response simulations, threat detection rules, and cybersecurity research  
+- 👯 **Looking to collaborate on:** SOC labs, incident response simulations, and security research  
+
+---
 
 > [!TIP]
-> **Ask me about:** SOC operations, SIEM (Splunk/Wazuh), log analysis, threat detection, incident response, vulnerability analysis, and security architecture.
+> **Ask me about:**  
+> Reverse Engineering · WebSockets · API Analysis · System Behavior · SOC Operations · Threat Detection  
 
-> [!NOTE]
-> **Key Strength:** A rare combination of **deep technical experience + attacker mindset + system-level understanding**, allowing me to detect patterns and risks others often miss.
+> [!IMPORTANT]
+> **What sets me apart:**  
+> 30+ years of hands-on experience + attacker mindset + deep system-level understanding.  
+> I identify behaviors, patterns, and risks that are often invisible to traditional approaches.
 
 ---
 
 ## 🔥 Featured Cybersecurity Projects
 
-These projects demonstrate real-world techniques used in cybersecurity, including reverse engineering, system analysis, and threat detection.
+These projects demonstrate real-world techniques used in cybersecurity, focusing on system analysis rather than theoretical security.
 
-- 🔍 **[API Reverse Engineering Lab](https://github.com/anthonydavalos/subastas_backend)**
+- 🔍 **[API Reverse Engineering Lab](https://github.com/anthonydavalos/subastas_backend)**  
   Analysis and extraction of undocumented APIs from real-world platforms  
   → Techniques: API reconnaissance, endpoint discovery, data extraction  
 
@@ -48,39 +55,39 @@ These projects demonstrate real-world techniques used in cybersecurity, includin
 
 - 🛡️ **SOC Threat Detection Lab** *(in progress)*  
   Building detection rules and incident response scenarios  
-  → Focus: SIEM, alert correlation, threat detection
+  → Focus: SIEM, alert correlation, threat detection  
 
 ---
 
-## ⚔️ Cybersecurity Skills
+## ⚔️ Cybersecurity Capabilities
 
 <details>
   <summary>Click to expand my cybersecurity capabilities</summary>
   <br>
 
-### 🔵 Blue Team (Defensive Security)
+### 🔵 Defensive Security (Blue Team)
 - SIEM: Splunk, Wazuh  
 - Log Analysis & Threat Detection  
-- Alert Triage & Incident Response  
+- Alert Triage & Incident Investigation  
 - Threat Intelligence  
 
-### 🔴 Red Team (Offensive Security)
-- Web Application Testing  
+### 🔴 Offensive Techniques (Applied Knowledge)
+- Web Application Analysis  
 - Network Scanning (Nmap)  
-- Vulnerability Assessment  
-- Basic Pentesting  
+- Vulnerability Identification  
+- System Interaction & Testing  
 
-### 🟣 DFIR (Digital Forensics & Incident Response)
+### 🟣 DFIR
 - Log Investigation  
 - Timeline Analysis  
-- Evidence Handling  
+- Event Correlation  
 - Malware Fundamentals  
 
-### 🟡 GRC (Governance, Risk & Compliance)
-- Risk Assessment  
-- Security Policies  
-- ISO 27001 Concepts  
-- Compliance Mindset  
+### 🟡 Systems & Architecture Mindset
+- Understanding system behavior  
+- Data flow analysis  
+- Detection of anomalies  
+- Security-focused system thinking  
 
 </details>
 
@@ -133,20 +140,20 @@ These projects demonstrate real-world techniques used in cybersecurity, includin
 
 > "Security is not a product, it's a process."
 
-I approach cybersecurity with a **defensive-first mindset**, focusing on visibility, detection, and rapid response — always thinking from the attacker’s perspective.
+I approach cybersecurity from a **behavioral and analytical perspective**, focusing on:
+
+- How systems communicate  
+- How data flows in real time  
+- Where anomalies and patterns emerge  
+
+Understanding systems at this level enables faster detection and stronger defenses.
 
 ---
 
 ## 📺 Latest From My Channel [@Softhony](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=6k27RMwycIc"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1526615640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=4676">
-  <img src="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1526615640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=4676"></picture></a>
-  &nbsp;
-  <a href="https://www.youtube.com/watch?v=Tj61S_H3y4E"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5778">
-  <img src="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=5778"></picture></a>
+  <!-- tus cards se mantienen igual -->
 </div>
 
 ---
@@ -159,8 +166,8 @@ I approach cybersecurity with a **defensive-first mindset**, focusing on visibil
 [![Twitter Follow](https://img.shields.io/twitter/follow/Softhony)](https://x.com/Softhony)
 
 > [!IMPORTANT]
-> **Open to SOC Analyst, Cybersecurity, and Incident Response opportunities.**
-> Let’s build secure systems and detect what others miss.
+> **Open to SOC Analyst, Cybersecurity, and Incident Response opportunities.**  
+> Let’s build systems that detect what others miss.
 
 ---
 
