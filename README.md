@@ -1,110 +1,151 @@
 # Hi 👋, I'm [Anthony Davalos](https://anthonydavalos.github.io/)
 
+🛡️ Cybersecurity Specialist | SOC Analyst | DFIR | GRC | Ethical Hacking  
+🧠 30+ Years in Technology & Systems | Threat Detection • Incident Response • Security Architecture  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=githubpages&logoColor=white)](https://anthonydavalos.github.io/)
 [![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://github.com/anthonydavalos?tab=repositories&sort=stargazers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Softhony)](https://x.com/Softhony)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCbGwEUjdhRG7aHbsh1uEOqA)](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
 
-## Software Developer & Financial Markets Trader 🇵🇪
+---
 
-I'm a Lima-based Software Developer and Financial Markets Trader. I'm passionate about the intersection of **technology 🤖**, **finance 📈**, and **marketing automation 🎯**. My goal is to build solutions that create real impact, constantly learning and improving along the way.
+## Cybersecurity Specialist & SOC-Focused Professional 🇵🇪
 
-- 🔭 **Currently working on:** Digital platforms at Mcofit and building custom CRMs for marketing teams (complete with KPI dashboards for Google Ads & Facebook Ads).
-- 🌱 **Learning:** Advanced applications of **Machine Learning in fintech & marketing analytics**.
-- 👯 **Looking to collaborate on:** Fintech projects, CRM development, data-driven marketing, and AI automation.
+With over **30 years of hands-on experience in technology**, I have built a deep understanding of systems from the ground up — from low-level environments to modern infrastructures.
+
+Today, I focus on **cybersecurity operations**, combining my background in development, systems, and attacker mindset to:
+
+- Detect and analyze threats in real time  
+- Investigate incidents and security events  
+- Strengthen defensive architectures  
+- Understand how attackers think and operate  
+
+- 🔭 **Currently working on:** Building SOC-focused labs, threat detection workflows, and security monitoring environments  
+- 🌱 **Learning:** Advanced threat detection, DFIR techniques, and SIEM correlation strategies  
+- 👯 **Looking to collaborate on:** SOC labs, incident response simulations, threat detection rules, and cybersecurity research  
 
 > [!TIP]
-> **Ask me about:** Full-stack development, CRM design, data analysis, algorithmic trading, or marketing KPIs. I'm always happy to share my knowledge!
+> **Ask me about:** SOC operations, SIEM (Splunk/Wazuh), log analysis, threat detection, incident response, vulnerability analysis, and security architecture.
 
 > [!NOTE]
-> **Key Achievements:** I've secured 1st place 🏆 in multiple **international trading contests**: AvaTrade (2017), FxStreet (2019), and Equiti (2020).
+> **Key Strength:** A rare combination of **deep technical experience + attacker mindset + system-level understanding**, allowing me to detect patterns and risks others often miss.
 
-## 🛠️ My Tech Stack & Skills
+---
+
+## ⚔️ Cybersecurity Skills
 
 <details>
-  <summary>Click to expand my full list of technologies</summary>
+  <summary>Click to expand my cybersecurity capabilities</summary>
   <br>
-  
-  <table width="100%">
-    <tr>
-      <td align="center" width="20%">
-        <strong>Cloud Platforms</strong><br><br>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure">
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
-      </td>
-      <td align="center" width="20%">
-        <strong>Programming</strong><br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-      </td>
-      <td align="center" width="20%">
-        <strong>Web & Frontend</strong><br><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
-      </td>
-      <td align="center" width="20%">
-        <strong>Backend & Databases</strong><br><br>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx">
-      </td>
-      <td align="center" width="20%">
-        <strong>Tools & Automation</strong><br><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" alt="Zapier">
-      </td>
-    </tr>
-  </table>
+
+### 🔵 Blue Team (Defensive Security)
+- SIEM: Splunk, Wazuh  
+- Log Analysis & Threat Detection  
+- Alert Triage & Incident Response  
+- Threat Intelligence  
+
+### 🔴 Red Team (Offensive Security)
+- Web Application Testing  
+- Network Scanning (Nmap)  
+- Vulnerability Assessment  
+- Basic Pentesting  
+
+### 🟣 DFIR (Digital Forensics & Incident Response)
+- Log Investigation  
+- Timeline Analysis  
+- Evidence Handling  
+- Malware Fundamentals  
+
+### 🟡 GRC (Governance, Risk & Compliance)
+- Risk Assessment  
+- Security Policies  
+- ISO 27001 Concepts  
+- Compliance Mindset  
+
 </details>
 
-## 📊 My GitHub Statistics
+---
+
+## 🛠️ Tools & Technologies
+
+<details>
+  <summary>Click to expand tools & stack</summary>
+  <br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git" />
+</p>
+
+<p align="center">
+  🧠 Wireshark • Nmap • Burp Suite • Metasploit • Splunk • Wazuh
+</p>
+
+</details>
+
+---
+
+## 📊 Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anthonydavalos&show_icons=true&layout=compact&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonydavalos&show_icons=true&layout=compact&theme=github-light" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonydavalos&show_icons=true&layout=compact&theme=github-light" />
   </picture>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anthonydavalos&show_icons=true&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anthonydavalos&show_icons=true&theme=github-light" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anthonydavalos&show_icons=true&theme=github-light" />
   </picture>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anthonydavalos&theme=react-dark" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonydavalos&theme=github-light" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonydavalos&theme=github-light" />
   </picture>
+
   <picture>
-    <img src="https://streak-stats.demolab.com/?user=anthonydavalos&theme=github-light" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=anthonydavalos&theme=github-light" />
   </picture>
 </div>
 
-## 📺 Latest From My Channel [@Softhony](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1) <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="32"/>
+---
+
+## 🎯 Cybersecurity Mindset
+
+> "Security is not a product, it's a process."
+
+I approach cybersecurity with a **defensive-first mindset**, focusing on visibility, detection, and rapid response — always thinking from the attacker’s perspective.
+
+---
+
+## 📺 Latest From My Channel [@Softhony](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=6k27RMwycIc"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1526615640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=4676">
-  <img src="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1526615640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=4676" alt="HOW TO SETUP A SERVER ON GCP WITH VIRTUALMIN AND NGINX PAGESPEED"></picture></a>
+  <img src="https://ytcards.demolab.com/?id=6k27RMwycIc&title=HOW+TO+SETUP+A+SERVER+ON+GCP+WITH+VIRTUALMIN+AND+NGINX+PAGESPEED&lang=en&timestamp=1526615640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=4676"></picture></a>
   &nbsp;
   <a href="https://www.youtube.com/watch?v=Tj61S_H3y4E"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5778">
-  <img src="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=5778" alt="HOW TO COMPILE THE PAGESPEED MODULE ON UBUNTU 18.04 LTS WITH NGINX"></picture></a>
+  <img src="https://ytcards.demolab.com/?id=Tj61S_H3y4E&title=HOW+TO+COMPILE+THE+PAGESPEED+MODULE+ON+UBUNTU+18.04+LTS+WITH+NGINX&lang=en&timestamp=1550721360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=5778"></picture></a>
 </div>
+
+---
 
 ## 📫 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=githubpages&logoColor=white)](https://anthonydavalos.github.io/)
-[![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://github.com/anthonydavalos?tab=repositories&sort=stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/anthonydavalos)](https://github.com/anthonydavalos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logoColor=white)](https://www.linkedin.com/in/anthonydavalos)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Softhony)](https://x.com/Softhony)
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCbGwEUjdhRG7aHbsh1uEOqA)](https://www.youtube.com/channel/UCbGwEUjdhRG7aHbsh1uEOqA?sub_confirmation=1)
 
 > [!IMPORTANT]
-> **Let's Build Something Great!**
-> I'm always open to collaborating on impactful projects worldwide. If you have an interesting idea or challenge, please feel free to reach out.
+> **Open to SOC Analyst, Cybersecurity, and Incident Response opportunities.**
+> Let’s build secure systems and detect what others miss.
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anthonydavalos/anthonydavalos/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/anthonydavalos/anthonydavalos/output/github-contribution-grid-snake.svg"/>
 </p>
