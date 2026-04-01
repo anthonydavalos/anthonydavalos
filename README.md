@@ -34,6 +34,24 @@ Today, I focus on **cybersecurity operations**, combining my background in devel
 
 ---
 
+## 🔥 Featured Cybersecurity Projects
+
+These projects demonstrate real-world techniques used in cybersecurity, including reverse engineering, system analysis, and threat detection.
+
+- 🔍 **[API Reverse Engineering Lab](https://github.com/anthonydavalos/subastas_backend)**
+  Analysis and extraction of undocumented APIs from real-world platforms  
+  → Techniques: API reconnaissance, endpoint discovery, data extraction  
+
+- ⚡ **[Real-time Systems Analysis (WebSockets)](https://github.com/anthonydavalos/betsniper)**  
+  Interaction and automation over live event-driven systems  
+  → Techniques: WebSocket inspection, real-time parsing, behavioral analysis  
+
+- 🛡️ **SOC Threat Detection Lab** *(in progress)*  
+  Building detection rules and incident response scenarios  
+  → Focus: SIEM, alert correlation, threat detection
+
+---
+
 ## ⚔️ Cybersecurity Skills
 
 <details>
